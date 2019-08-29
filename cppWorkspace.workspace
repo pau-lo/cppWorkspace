@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppWorkspace" Database="" Version="10.0.0">
+  <Project Name="01-structure" Path="01-structure/01-structure.project" Active="No"/>
+  <Project Name="02-quiz" Path="02-quiz/02-quiz.project" Active="No"/>
+  <Project Name="03-using_namespace_variant" Path="03-using_namespace_variant/03-using_namespace_variant.project" Active="No"/>
+  <Project Name="04-basic_io_input" Path="04-basic_io_input/04-basic_io_input.project" Active="No"/>
+  <Project Name="05-variables" Path="05-variables/05-variables.project" Active="No"/>
+  <Project Name="06-global_variables" Path="06-global_variables/06-global_variables.project" Active="No"/>
+  <Project Name="07-built_in_primitive_types" Path="07-built_in_primitive_types/07-built_in_primitive_types.project" Active="No"/>
+  <Project Name="08-size_of" Path="08-size_of/08-size_of.project" Active="No"/>
+  <Project Name="09-constants" Path="09-constants/09-constants.project" Active="No"/>
+  <Project Name="10-project" Path="10-project/10-project.project" Active="No"/>
+  <Project Name="11-project2" Path="11-project2/11-project2.project" Active="No"/>
+  <Project Name="12-arrays" Path="12-arrays/12-arrays.project" Active="No"/>
+  <Project Name="13-multidimensional_arrays" Path="13-multidimensional_arrays/13-multidimensional_arrays.project" Active="No"/>
+  <Project Name="14-vectors" Path="14-vectors/14-vectors.project" Active="No"/>
+  <Project Name="15-vector-section-challenge" Path="15-section-challenge/15-section-challenge.project" Active="No"/>
+  <Project Name="16-expressions-assignments-operators" Path="16-Expressions/16-Expressions.project" Active="No"/>
+  <Project Name="17-arithmetic-operators" Path="17-arithmetic-operators/17-arithmetic-operators.project" Active="No"/>
+  <Project Name="18-euros-to-dollars" Path="18-euros-to-dollars/18-euros-to-dollars.project" Active="No"/>
+  <Project Name="19-miles-to-km" Path="19-miles-to-km/19-miles-to-km.project" Active="No"/>
+  <Project Name="20-increment-decrement-operator" Path="20-increment-decrement-operator/20-increment-decrement-operator.project" Active="No"/>
+  <Project Name="21-mixed-typed-expressions" Path="21-mixed-typed-expressions/21-mixed-typed-expressions.project" Active="No"/>
+  <Project Name="22-testing-for-equality" Path="22-testing-for-equality/22-testing-for-equality.project" Active="No"/>
+  <Project Name="23-relational-operators" Path="23-relational-operators/23-relational-operators.project" Active="No"/>
+  <Project Name="24-logical-operators" Path="24-equality-operator/24-equality-operator.project" Active="No"/>
+  <Project Name="25-project-temperature" Path="25-project-temperature/25-project-temperature.project" Active="No"/>
+  <Project Name="26-compound-assignment-operators" Path="26-compound-assignment-operators/26-compound-assignment-operators.project" Active="No"/>
+  <Project Name="27-project-number-of-cents" Path="27-project-number-of-cents/27-project-number-of-cents.project" Active="No"/>
+  <Project Name="28-project-number-of-cents" Path="28-project-number-of-cents/28-project-number-of-cents.project" Active="No"/>
+  <Project Name="29-controlling-program-flow" Path="29-controlling-program-flow/29-controlling-program-flow.project" Active="No"/>
+  <Project Name="30-if-statement" Path="30-if-loops/30-if-loops.project" Active="No"/>
+  <Project Name="31-if-else-statement" Path="31-if-else-statement/31-if-else-statement.project" Active="No"/>
+  <Project Name="32-nested-if-statements" Path="32-others/32-others.project" Active="No"/>
+  <Project Name="33-project-shipping-cost-calculator" Path="33-project-shipping-cost-calculator/33-project-shipping-cost-calculator.project" Active="No"/>
+  <Project Name="34-switch-statement" Path="34-switch-statement/34-switch-statement.project" Active="No"/>
+  <Project Name="35-project-day-of-the-week" Path="35-project-day-of-the-week/35-project-day-of-the-week.project" Active="No"/>
+  <Project Name="36-conditional-operator" Path="36-conditional-operator/36-conditional-operator.project" Active="No"/>
+  <Project Name="37-looping" Path="37-looping/37-looping.project" Active="No"/>
+  <Project Name="38-exercise-using-loop" Path="38-exercise-using-loop/38-exercise-using-loop.project" Active="No"/>
+  <Project Name="39-range-based-loop" Path="39-range-based-loop/39-range-based-loop.project" Active="No"/>
+  <Project Name="40-exercise-range-based-loop" Path="40-exercise-range-based-loop/40-exercise-range-based-loop.project" Active="No"/>
+  <Project Name="41-while-loops" Path="41-while-loops/41-while-loops.project" Active="No"/>
+  <Project Name="42-exercise-while-loop" Path="42-exercise-while-loop/42-exercise-while-loop.project" Active="No"/>
+  <Project Name="43-do-while-loops" Path="43-do-while-loops/43-do-while-loops.project" Active="No"/>
+  <Project Name="44-project-simple-menu" Path="44-project-simple-menu/44-project-simple-menu.project" Active="No"/>
+  <Project Name="45-continue-break-statement" Path="44-continue-break-statmement/44-continue-break-statmement.project" Active="No"/>
+  <Project Name="46-infininte-loops" Path="46-infininte-loops/46-infininte-loops.project" Active="No"/>
+  <Project Name="47-nested-loops" Path="47-nested-loops/47-nested-loops.project" Active="No"/>
+  <Project Name="48-exercise-nested-loop-calculator" Path="48-exercise-nested-loop-calculator/48-exercise-nested-loop-calculator.project" Active="No"/>
+  <Project Name="49-project-histogram-using-nested-loops" Path="49-project-histogram-using-nested-loops/49-project-histogram-using-nested-loops.project" Active="No"/>
+  <Project Name="50-exercise-nested-loops" Path="50-section-challenge/50-section-challenge.project" Active="No"/>
+  <Project Name="17b-exercise-using-the-arithmetic-operator" Path="17-1-exercise-using-the-assignment-operator/17-1-exercise-using-the-assignment-operator.project" Active="No"/>
+  <Project Name="17c-exercise-logical-and-precedence-operator" Path="17c-exercise-logical-and-precedence-operator/17c-exercise-logical-and-precedence-operator.project" Active="No"/>
+  <Project Name="51-project" Path="51-project/51-project.project" Active="No"/>
+  <Project Name="52-character-functions" Path="52-character-functions/52-character-functions.project" Active="No"/>
+  <Project Name="53-c-style-strings" Path="53-c-style-strings/53-c-style-strings.project" Active="No"/>
+  <Project Name="54-cpp_strings" Path="54-cpp_strings/54-cpp_strings.project" Active="No"/>
+  <Project Name="55-Working-with-cpp_strings" Path="55-Working-with-cpp_strings/55-Working-with-cpp_strings.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="01-structure" ConfigName="Debug"/>
+      <Project Name="02-quiz" ConfigName="Debug"/>
+      <Project Name="03-using_namespace_variant" ConfigName="Debug"/>
+      <Project Name="04-basic_io_input" ConfigName="Debug"/>
+      <Project Name="05-variables" ConfigName="Debug"/>
+      <Project Name="06-global_variables" ConfigName="Debug"/>
+      <Project Name="07-built_in_primitive_types" ConfigName="Debug"/>
+      <Project Name="08-size_of" ConfigName="Debug"/>
+      <Project Name="09-constants" ConfigName="Debug"/>
+      <Project Name="10-project" ConfigName="Debug"/>
+      <Project Name="11-project2" ConfigName="Debug"/>
+      <Project Name="12-arrays" ConfigName="Debug"/>
+      <Project Name="13-multidimensional_arrays" ConfigName="Debug"/>
+      <Project Name="14-vectors" ConfigName="Debug"/>
+      <Project Name="15-vector-section-challenge" ConfigName="Debug"/>
+      <Project Name="16-expressions-assignments-operators" ConfigName="Debug"/>
+      <Project Name="17-arithmetic-operators" ConfigName="Debug"/>
+      <Project Name="18-euros-to-dollars" ConfigName="Debug"/>
+      <Project Name="19-miles-to-km" ConfigName="Debug"/>
+      <Project Name="20-increment-decrement-operator" ConfigName="Debug"/>
+      <Project Name="21-mixed-typed-expressions" ConfigName="Debug"/>
+      <Project Name="22-testing-for-equality" ConfigName="Debug"/>
+      <Project Name="23-relational-operators" ConfigName="Debug"/>
+      <Project Name="24-logical-operators" ConfigName="Debug"/>
+      <Project Name="25-project-temperature" ConfigName="Debug"/>
+      <Project Name="26-compound-assignment-operators" ConfigName="Debug"/>
+      <Project Name="27-project-number-of-cents" ConfigName="Debug"/>
+      <Project Name="28-project-number-of-cents" ConfigName="Debug"/>
+      <Project Name="29-controlling-program-flow" ConfigName="Debug"/>
+      <Project Name="30-if-statement" ConfigName="Debug"/>
+      <Project Name="31-if-else-statement" ConfigName="Debug"/>
+      <Project Name="32-nested-if-statements" ConfigName="Debug"/>
+      <Project Name="33-project-shipping-cost-calculator" ConfigName="Debug"/>
+      <Project Name="34-switch-statement" ConfigName="Debug"/>
+      <Project Name="35-project-day-of-the-week" ConfigName="Debug"/>
+      <Project Name="36-conditional-operator" ConfigName="Debug"/>
+      <Project Name="37-looping" ConfigName="Debug"/>
+      <Project Name="38-exercise-using-loop" ConfigName="Debug"/>
+      <Project Name="39-range-based-loop" ConfigName="Debug"/>
+      <Project Name="40-exercise-range-based-loop" ConfigName="Debug"/>
+      <Project Name="41-while-loops" ConfigName="Debug"/>
+      <Project Name="42-exercise-while-loop" ConfigName="Debug"/>
+      <Project Name="43-do-while-loops" ConfigName="Debug"/>
+      <Project Name="44-project-simple-menu" ConfigName="Debug"/>
+      <Project Name="45-continue-break-statement" ConfigName="Debug"/>
+      <Project Name="46-infininte-loops" ConfigName="Debug"/>
+      <Project Name="47-nested-loops" ConfigName="Debug"/>
+      <Project Name="48-exercise-nested-loop-calculator" ConfigName="Debug"/>
+      <Project Name="49-project-histogram-using-nested-loops" ConfigName="Debug"/>
+      <Project Name="50-exercise-nested-loops" ConfigName="Debug"/>
+      <Project Name="17b-exercise-using-the-arithmetic-operator" ConfigName="Debug"/>
+      <Project Name="17c-exercise-logical-and-precedence-operator" ConfigName="Debug"/>
+      <Project Name="51-project" ConfigName="Debug"/>
+      <Project Name="52-character-functions" ConfigName="Debug"/>
+      <Project Name="53-c-style-strings" ConfigName="Debug"/>
+      <Project Name="54-cpp_strings" ConfigName="Debug"/>
+      <Project Name="55-Working-with-cpp_strings" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="01-structure" ConfigName="Release"/>
+      <Project Name="02-quiz" ConfigName="Release"/>
+      <Project Name="03-using_namespace_variant" ConfigName="Release"/>
+      <Project Name="04-basic_io_input" ConfigName="Release"/>
+      <Project Name="05-variables" ConfigName="Release"/>
+      <Project Name="06-global_variables" ConfigName="Release"/>
+      <Project Name="07-built_in_primitive_types" ConfigName="Release"/>
+      <Project Name="08-size_of" ConfigName="Release"/>
+      <Project Name="09-constants" ConfigName="Release"/>
+      <Project Name="10-project" ConfigName="Release"/>
+      <Project Name="11-project2" ConfigName="Release"/>
+      <Project Name="12-arrays" ConfigName="Release"/>
+      <Project Name="13-multidimensional_arrays" ConfigName="Release"/>
+      <Project Name="14-vectors" ConfigName="Release"/>
+      <Project Name="15-vector-section-challenge" ConfigName="Release"/>
+      <Project Name="16-expressions-assignments-operators" ConfigName="Release"/>
+      <Project Name="17-arithmetic-operators" ConfigName="Release"/>
+      <Project Name="18-euros-to-dollars" ConfigName="Release"/>
+      <Project Name="19-miles-to-km" ConfigName="Release"/>
+      <Project Name="20-increment-decrement-operator" ConfigName="Release"/>
+      <Project Name="21-mixed-typed-expressions" ConfigName="Release"/>
+      <Project Name="22-testing-for-equality" ConfigName="Release"/>
+      <Project Name="23-relational-operators" ConfigName="Release"/>
+      <Project Name="24-logical-operators" ConfigName="Release"/>
+      <Project Name="25-project-temperature" ConfigName="Release"/>
+      <Project Name="26-compound-assignment-operators" ConfigName="Release"/>
+      <Project Name="27-project-number-of-cents" ConfigName="Release"/>
+      <Project Name="28-project-number-of-cents" ConfigName="Release"/>
+      <Project Name="29-controlling-program-flow" ConfigName="Release"/>
+      <Project Name="30-if-statement" ConfigName="Release"/>
+      <Project Name="31-if-else-statement" ConfigName="Release"/>
+      <Project Name="32-nested-if-statements" ConfigName="Release"/>
+      <Project Name="33-project-shipping-cost-calculator" ConfigName="Release"/>
+      <Project Name="34-switch-statement" ConfigName="Release"/>
+      <Project Name="35-project-day-of-the-week" ConfigName="Release"/>
+      <Project Name="36-conditional-operator" ConfigName="Release"/>
+      <Project Name="37-looping" ConfigName="Release"/>
+      <Project Name="38-exercise-using-loop" ConfigName="Release"/>
+      <Project Name="39-range-based-loop" ConfigName="Release"/>
+      <Project Name="40-exercise-range-based-loop" ConfigName="Release"/>
+      <Project Name="41-while-loops" ConfigName="Release"/>
+      <Project Name="42-exercise-while-loop" ConfigName="Release"/>
+      <Project Name="43-do-while-loops" ConfigName="Release"/>
+      <Project Name="44-project-simple-menu" ConfigName="Release"/>
+      <Project Name="45-continue-break-statement" ConfigName="Release"/>
+      <Project Name="46-infininte-loops" ConfigName="Release"/>
+      <Project Name="47-nested-loops" ConfigName="Release"/>
+      <Project Name="48-exercise-nested-loop-calculator" ConfigName="Release"/>
+      <Project Name="49-project-histogram-using-nested-loops" ConfigName="Release"/>
+      <Project Name="50-exercise-nested-loops" ConfigName="Release"/>
+      <Project Name="17b-exercise-using-the-arithmetic-operator" ConfigName="Release"/>
+      <Project Name="17c-exercise-logical-and-precedence-operator" ConfigName="Release"/>
+      <Project Name="51-project" ConfigName="Release"/>
+      <Project Name="52-character-functions" ConfigName="Release"/>
+      <Project Name="53-c-style-strings" ConfigName="Release"/>
+      <Project Name="54-cpp_strings" ConfigName="Release"/>
+      <Project Name="55-Working-with-cpp_strings" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

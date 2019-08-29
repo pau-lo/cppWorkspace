@@ -1,0 +1,225 @@
+[{
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/55-Working-with-cpp_strings/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/55-Working-with-cpp_strings",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/55-Working-with-cpp_strings/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/55-Working-with-cpp_strings/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/54-cpp_strings/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/54-cpp_strings",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/54-cpp_strings/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/54-cpp_strings/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/52-character-functions/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/52-character-functions",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/52-character-functions/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/52-character-functions/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17c-exercise-logical-and-precedence-operator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17c-exercise-logical-and-precedence-operator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17c-exercise-logical-and-precedence-operator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17c-exercise-logical-and-precedence-operator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-1-exercise-using-the-assignment-operator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-1-exercise-using-the-assignment-operator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-1-exercise-using-the-assignment-operator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-1-exercise-using-the-assignment-operator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/49-project-histogram-using-nested-loops/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/49-project-histogram-using-nested-loops",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/49-project-histogram-using-nested-loops/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/49-project-histogram-using-nested-loops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/48-exercise-nested-loop-calculator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/48-exercise-nested-loop-calculator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/48-exercise-nested-loop-calculator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/48-exercise-nested-loop-calculator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/47-nested-loops/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/47-nested-loops",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/47-nested-loops/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/47-nested-loops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/28-project-number-of-cents/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/28-project-number-of-cents",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/28-project-number-of-cents/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/28-project-number-of-cents/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-continue-break-statmement/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-continue-break-statmement",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-continue-break-statmement/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-continue-break-statmement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/02-quiz/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/02-quiz",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/02-quiz/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/02-quiz/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/16-Expressions/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/16-Expressions",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/16-Expressions/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/16-Expressions/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-project-simple-menu/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-project-simple-menu",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-project-simple-menu/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/44-project-simple-menu/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/53-c-style-strings/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/53-c-style-strings",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/53-c-style-strings/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/53-c-style-strings/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/41-while-loops/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/41-while-loops",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/41-while-loops/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/41-while-loops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/39-range-based-loop/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/39-range-based-loop",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/39-range-based-loop/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/39-range-based-loop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/09-constants/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/09-constants",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/09-constants/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/09-constants/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/03-using_namespace_variant/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/03-using_namespace_variant",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/03-using_namespace_variant/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/03-using_namespace_variant/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/38-exercise-using-loop/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/38-exercise-using-loop",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/38-exercise-using-loop/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/38-exercise-using-loop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/37-looping/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/37-looping",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/37-looping/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/37-looping/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/36-conditional-operator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/36-conditional-operator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/36-conditional-operator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/36-conditional-operator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/35-project-day-of-the-week/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/35-project-day-of-the-week",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/35-project-day-of-the-week/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/35-project-day-of-the-week/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/34-switch-statement/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/34-switch-statement",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/34-switch-statement/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/34-switch-statement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/33-project-shipping-cost-calculator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/33-project-shipping-cost-calculator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/33-project-shipping-cost-calculator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/33-project-shipping-cost-calculator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/24-equality-operator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/24-equality-operator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/24-equality-operator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/24-equality-operator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/31-if-else-statement/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/31-if-else-statement",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/31-if-else-statement/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/31-if-else-statement/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/05-variables/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/05-variables",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/05-variables/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/05-variables/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/30-if-loops/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/30-if-loops",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/30-if-loops/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/30-if-loops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/26-compound-assignment-operators/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/26-compound-assignment-operators",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/26-compound-assignment-operators/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/26-compound-assignment-operators/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/25-project-temperature/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/25-project-temperature",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/25-project-temperature/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/25-project-temperature/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/27-project-number-of-cents/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/27-project-number-of-cents",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/27-project-number-of-cents/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/27-project-number-of-cents/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/11-project2/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/11-project2",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/11-project2/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/11-project2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/20-increment-decrement-operator/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/20-increment-decrement-operator",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/20-increment-decrement-operator/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/20-increment-decrement-operator/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/21-mixed-typed-expressions/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/21-mixed-typed-expressions",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/21-mixed-typed-expressions/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/21-mixed-typed-expressions/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/10-project/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/10-project",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/10-project/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/10-project/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/18-euros-to-dollars/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/18-euros-to-dollars",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/18-euros-to-dollars/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/18-euros-to-dollars/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/46-infininte-loops/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/46-infininte-loops",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/46-infininte-loops/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/46-infininte-loops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/06-global_variables/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/06-global_variables",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/06-global_variables/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/06-global_variables/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/19-miles-to-km/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/19-miles-to-km",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/19-miles-to-km/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/19-miles-to-km/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-arithmetic-operators/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-arithmetic-operators",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-arithmetic-operators/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/17-arithmetic-operators/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/23-relational-operators/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/23-relational-operators",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/23-relational-operators/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/23-relational-operators/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/40-exercise-range-based-loop/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/40-exercise-range-based-loop",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/40-exercise-range-based-loop/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/40-exercise-range-based-loop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/43-do-while-loops/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/43-do-while-loops",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/43-do-while-loops/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/43-do-while-loops/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/15-section-challenge/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/15-section-challenge",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/15-section-challenge/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/15-section-challenge/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/13-multidimensional_arrays/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/13-multidimensional_arrays",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/13-multidimensional_arrays/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/13-multidimensional_arrays/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/12-arrays/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/12-arrays",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/12-arrays/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/12-arrays/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/42-exercise-while-loop/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/42-exercise-while-loop",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/42-exercise-while-loop/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/42-exercise-while-loop/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/14-vectors/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/14-vectors",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/14-vectors/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/14-vectors/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/08-size_of/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/08-size_of",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/08-size_of/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/08-size_of/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/01-structure/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/01-structure",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/01-structure/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/01-structure/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/50-section-challenge/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/50-section-challenge",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/50-section-challenge/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/50-section-challenge/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/22-testing-for-equality/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/22-testing-for-equality",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/22-testing-for-equality/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/22-testing-for-equality/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/51-project/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/51-project",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/51-project/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/51-project/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/07-built_in_primitive_types/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/07-built_in_primitive_types",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/07-built_in_primitive_types/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/07-built_in_primitive_types/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/32-others/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/32-others",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/32-others/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/32-others/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/04-basic_io_input/main.cpp",
+  "directory": "/Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/04-basic_io_input",
+  "command": "clang  -c /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/04-basic_io_input/main.cpp -o /Volumes/VIRTUAL/workspace/dev/cpp/cppWorkspace/04-basic_io_input/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

@@ -1,0 +1,37 @@
+//
+//  controlling program flow
+//
+//  main.cpp
+
+
+/*      Controlling Program Flow
+ * 
+ *      - Sequence
+ *          * ordering statements sequentially
+ *       
+ *      - Selection
+ *          * Making decisions
+ * 
+ *              if statements 
+ *              if-else statement 
+ *              Nested if statements 
+ *              switch statement 
+ *              Conditional operator ?
+ * 
+ *      - Iteration
+ *          * Looping or reapeating
+ * 
+ *              for loop 
+ *              Range-based for loop
+ *              while loop
+ *              do-while loop
+ *              infinite loop
+ *              nested loops (lopps within loops)
+ * 
+ * 
+ *      With these threes we can implement any algorithm 
+ * 
+ * 
+ * 
+ */ 
+
